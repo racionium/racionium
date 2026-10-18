@@ -1,0 +1,10 @@
+{
+  "name": "Рациониум",
+  "short_name": "Рациониум",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6ef",
+  "theme_color": "#2f5228",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
